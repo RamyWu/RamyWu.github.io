@@ -1,25 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "大虾是谁"
 date:   2017-03-03 20:14:10 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, wuxia' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+我是大虾，一个来自广东的90后女孩，五年前为了看下雪 不惜飞奔千里来到北方读大学，并选择了大多女孩都讨厌的计算机专业，大三开始写了几行Code就收拾行囊来到北京五道口开始了我的人生第一场时间源头的旅行：在人工智能领域深入科技前沿感受高质量的磁场弯曲，也加入烧脑的开智社群和大家共同进步~
