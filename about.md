@@ -1,15 +1,6 @@
 ---
 layout: page
-title: About
+title: 大虾
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+我是大虾，一个来自广东的90后女孩，五年前为了看下雪 不惜飞奔千里来到北方读大学，并选择了大多女孩都讨厌的计算机专业，大三开始写了几行Code就收拾行囊来到北京五道口开始了我的人生第一场时间源头的旅行：在人工智能领域深入科技前沿感受高质量的磁场弯曲，也加入烧脑的开智社群和大家共同进步~
