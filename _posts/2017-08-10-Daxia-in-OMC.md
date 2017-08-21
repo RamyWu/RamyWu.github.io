@@ -98,10 +98,9 @@ categories: jekyll update
 
 在这里，反复看多几遍阳老原文，尤其是「从原则正确到细节正确」部分
 
-- [心智工具箱 | 如何建立好的学习习惯系统？](http://www.yangzhiping.com/psy/EstablishLearningSystem.html)
-- [心智工具箱 | 构建优雅的知识创造系统](http://www.yangzhiping.com/psy/yang-KnowledgeSystem.html)
+- [心智工具箱 - 如何建立好的学习习惯系统？](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149581&idx=1&sn=375d83f78448d8b987d5aa720d0401ae&chksm=84f0bc1bb387350d96e5bc0621f3f3bdf005869da49812ad1360e28e2fa26516248bb3b375a3&mpshare=1&scene=1&srcid=0821phuqz4uKoMgVm1zlTA6u&key=9d7a2a43293777bc728af326fe42585955970d50cd0aeaa6ce864eeffcac1bb8c5173ceb538a068819dc3b17e814f81a3201728dc81aa68383fc9695dfe307107034725273663de7863d3039f39a04b3&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=jVQTYlhOF09vU%2BERy2i1HzAL4NF1r4DMJx9Nrp9jKFpJuluWLhAmCwDAOrrQ37Rc)
+- [心智工具箱 - 构建优雅的知识创造系统](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149604&idx=1&sn=3c96ebfe992694e5c57affe9ef5ba33f&chksm=84f0bc32b38735240509f604f8d8e50ab591a09290ca03d91960f174e1ea0448455b327e41a1&mpshare=1&scene=1&srcid=0821g1BA68nlzYutH7flg66F&key=ec2bfb07aacba6873c32bad3bd0227a90b851469a1ebb5fc697e830da38965edd48a3a1fb440887c4d6d505f1eeeeac634fdd2936c75929814b8c65d1b4060a40af77f6e35cf3c5309540fdca6cb1843&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=jVQTYlhOF09vU%2BERy2i1HzAL4NF1r4DMJx9Nrp9jKFpJuluWLhAmCwDAOrrQ37Rc)
 
-（链接的是阳老师的博客，文章内图片无法查看，可在阳老师的微信公众号 - 「心智工具箱」中查看~）
 
 ---
 
