@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "开智大会·一年记"
-date:   2017-09-09 15:35:00 +0800
+date:   2017-09-11 15:35:00 +0800
 categories: jekyll update
 ---
 
