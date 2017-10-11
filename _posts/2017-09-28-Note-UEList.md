@@ -155,8 +155,11 @@ categories: jekyll update
 
 # 参考：
 
-- 基于 [四四四毛｜GoodUI设计技巧（一）](http://www.jianshu.com/p/f781c40df57c) 整理
+
 - 基于 [认知与设计](https://book.douban.com/subject/6792322/) 增补
+- 基于 [设计心理学](https://book.douban.com/subject/26742341/) 增补
+- 基于 [四四四毛｜GoodUI设计技巧（一）](http://www.jianshu.com/p/f781c40df57c) 整理
+
 
 
 ---
