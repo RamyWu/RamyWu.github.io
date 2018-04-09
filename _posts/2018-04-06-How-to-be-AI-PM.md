@@ -27,7 +27,10 @@ categories: jekyll update
 
 [其实不用看也知道应该要行动，而不是光靠学习](http://www.ramywu.com/jekyll/update/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge.html)
 
+---
 
-180406，大虾
+
+- 每篇独立拆开，180409，大虾
+- 创建，180406，大虾
 
 
