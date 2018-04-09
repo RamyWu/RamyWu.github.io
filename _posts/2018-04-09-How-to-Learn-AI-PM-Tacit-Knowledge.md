@@ -26,7 +26,7 @@ categories: jekyll update
 
 > 学习的本质是改变，不管是认知上的改变还是行为上的改变。
 > 
-> [如何生成自己的知识树 | 开智部落](https://mp.weixin.qq.com/s?__biz=MzI1NjQ5NzM2Ng==&mid=2247483735&idx=1&sn=f5112ee2c89322a019fd683d43b68a8b&chksm=ea2482eedd530bf85c888586fb3e7f173953defd13dc2968e6543ff848cd691fc051f844d2fb&mpshare=1&scene=1&srcid=0408NymNffoPKoTaXFTjNmBN&key=52f65e2fc335f081aa98694a8dae7966b8a6e13b2ead07d1258694cfd5a57b52ff2f276f4aad4e97a056e447e59cff9cb702c58ac3976eb1b1acfc6f448855a88eb554d3caac3a707916e96f4e18fe30&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=XhQRlddtEjj7fjqXNaZGiSbN4xHzM0uG6x%2BZLQH%2B7Op7yAMWXAd5X%2Fyp3FGshV63)
+> [如何生成自己的知识树-开智部落](https://mp.weixin.qq.com/s?__biz=MzI1NjQ5NzM2Ng==&mid=2247483735&idx=1&sn=f5112ee2c89322a019fd683d43b68a8b&chksm=ea2482eedd530bf85c888586fb3e7f173953defd13dc2968e6543ff848cd691fc051f844d2fb&mpshare=1&scene=1&srcid=0408NymNffoPKoTaXFTjNmBN&key=52f65e2fc335f081aa98694a8dae7966b8a6e13b2ead07d1258694cfd5a57b52ff2f276f4aad4e97a056e447e59cff9cb702c58ac3976eb1b1acfc6f448855a88eb554d3caac3a707916e96f4e18fe30&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=XhQRlddtEjj7fjqXNaZGiSbN4xHzM0uG6x%2BZLQH%2B7Op7yAMWXAd5X%2Fyp3FGshV63)
 
 最后还是不自觉地想起了我老板阳老师的旧文：元认知学习法系列
 
