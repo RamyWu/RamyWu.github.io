@@ -10,7 +10,7 @@ categories: jekyll update
 
 ## Q1：AI PM 和常规 PM 的区别是什么？
 
-这段有点长，拆出另一篇文章来回答：...
+这段有点长，拆出另一篇文章来回答：http://www.ramywu.com/jekyll/update/2018/04/09/Difference-of-AI-PM-and-PM.html
 
 
 ## AI 产品经理在工作中会面临什么样的难题？
