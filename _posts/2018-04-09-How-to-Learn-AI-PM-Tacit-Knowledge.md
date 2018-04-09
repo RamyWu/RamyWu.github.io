@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何学习 AI 产品经理的内隐知识？"
-date:   2018-04-09 19:02:00 +0800
+date:   2018-04-09 19:12:00 +0800
 categories: jekyll update
 ---
 

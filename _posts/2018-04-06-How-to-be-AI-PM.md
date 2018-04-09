@@ -10,20 +10,22 @@ categories: jekyll update
 
 ## Q1：AI PM 和常规 PM 的区别是什么？
 
-这段有点长，拆出另一篇文章来回答：[戳链接](http://www.ramywu.com/jekyll/update/2018/04/09/Difference-between-AI-PM-and-PM.html)
+[这段有点长，拆出另一篇文章来回答](http://www.ramywu.com/jekyll/update/2018/04/09/Difference-between-AI-PM-and-PM.html)
 
 
 ## Q2：AI 产品经理在工作中会面临什么样的难题？
 
-我决定将这几个问题都拆出一篇文章来回答，这样看起来好多篇啊哈哈：[戳链接](http://www.ramywu.com/jekyll/update/2018/04/09/What-Problems-in-AI-PM-works.html)
+[我决定将这几个问题都拆出一篇文章来回答，这样看起来好多篇啊哈哈](http://www.ramywu.com/jekyll/update/2018/04/09/What-Problems-in-AI-PM-works.html)
 
 
 ## Q3：转入 AI 产品经理之前最好提前做哪些准备？
 
-- 如果你还没开始转 or 如果你已经转进来了：[都可以戳这里]()
+[如果你还没开始转 or 如果你已经转进来了，都可以戳这里](http://www.ramywu.com/jekyll/update/2018/04/09/Get-Ready-For-AI-PM.html)
 
 
-## Q4： 光看书或者刷文章无法真正理解 AI 知识，如何内化这些知识？
+## Q4：如何学习 AI 产品经理的内隐知识?
+
+[其实不用看也知道应该要行动，而不是光靠学习](http://www.ramywu.com/jekyll/update/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge.html)
 
 
 180406，大虾
