@@ -2,8 +2,8 @@
 layout: post
 title:  "转入 AI 产品经理之前最好提前做哪些准备？"
 date:   2018-04-09 18:52:00 +0800
-tags: [Work,AI PM]
-category: 工作相关
+tags: AI PM
+category: Work
 ---
 
 ~ 先从自己擅长的技能出发，比如是技术转 AI PM，还是产品转 AI PM？

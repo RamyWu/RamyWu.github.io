@@ -2,8 +2,8 @@
 layout: post
 title:  "交互设计清单"
 date:   2017-09-28 17:35:00 +0800
-tags: [Work,UI]
-category: 工作相关
+tags: UI
+category: Work
 ---
 
 ~ 看四毛姐姐的笔记，加上读了几本交互设计相关的书，用清单的方式整理的笔记。

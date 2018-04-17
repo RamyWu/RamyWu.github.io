@@ -2,8 +2,8 @@
 layout: post
 title:  "AI 产品经理在工作中会面临什么样的难题？"
 date:   2018-04-09 19:42:00 +0800
-tags: [Work,AI PM]
-category: 工作相关
+tags: AI PM
+category: Work
 ---
 
 除去常规 PM 都需要面临的用户场景中的各个问题，AI PM 在产品或项目的算法研发阶段，主要会面临算法研发周期较长和数据（训练集、测试集等）处理的一些问题。

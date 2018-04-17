@@ -2,8 +2,8 @@
 layout: post
 title:  "一位 AI PM 在工作中的痛苦和幸福"
 date:   2018-01-27 01:42:00 +0800
-tags: [Work,AI PM]
-category: 工作相关
+tags: AI PM
+category: Work
 ---
 
 当我夜深人静躺在床上进入放空状态，或者是白日工作停顿思考中，一个问题出现在脑海里：「我想成为一个什么样的人？」

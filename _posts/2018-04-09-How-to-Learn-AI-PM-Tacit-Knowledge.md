@@ -2,8 +2,8 @@
 layout: post
 title:  "如何学习 AI 产品经理的内隐知识？"
 date:   2018-04-09 19:12:00 +0800
-tags: [Work,AI PM]
-category: 工作相关
+tags: AI PM
+category: Work
 ---
 
 这个问题的背景是...好闺蜜刷了一段时间的 AI PM 相关的文章、公众号，还是问我为什么看不懂，如何学习 AI 产品经理所需的内隐知识...

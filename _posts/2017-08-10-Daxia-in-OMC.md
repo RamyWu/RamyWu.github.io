@@ -2,8 +2,8 @@
 layout: post
 title:  "我在开智"
 date:   2017-08-01 18:45:00 +0800
-tags: FreeStyle
-category: 随便写写
+tags: OpenmindClub
+category: Work
 ---
 
 ~ 一晃眼，我在开智已经三个月了。
