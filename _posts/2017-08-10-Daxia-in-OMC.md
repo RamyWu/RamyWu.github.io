@@ -2,7 +2,8 @@
 layout: post
 title:  "我在开智"
 date:   2017-08-01 18:45:00 +0800
-categories: jekyll update
+tags: FreeStyle
+category: 随便写写
 ---
 
 ## 奇妙动物园

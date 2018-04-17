@@ -2,7 +2,8 @@
 layout: post
 title:  "转入 AI 产品经理之前最好提前做哪些准备？"
 date:   2018-04-09 18:52:00 +0800
-categories: jekyll update
+tags: [Work,AI PM]
+category: 工作相关
 ---
 
 ## 先大体了解一下自己要进入哪个领域

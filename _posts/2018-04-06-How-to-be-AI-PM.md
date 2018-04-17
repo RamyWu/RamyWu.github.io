@@ -2,7 +2,8 @@
 layout: post
 title:  "如何转入 AI 产品经理的几个问题"
 date:   2018-04-06 20:42:00 +0800
-categories: jekyll update
+tags: [Work,AI PM]
+category: 工作相关
 ---
 
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "交互设计清单"
 date:   2017-09-28 17:35:00 +0800
-categories: jekyll update
+tags: [Work,UI]
+category: 工作相关
 ---
 
 
