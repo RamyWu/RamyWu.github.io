@@ -19,16 +19,7 @@ categories: jekyll update
 
 需要注意的是，不同的岗位、领导的招聘需求都不同，看到这篇文章蛮有意思的，[基于“把点开活”的面试通关理论](https://mp.weixin.qq.com/s?__biz=MzIyOTAyOTEyNw==&mid=2649631891&idx=1&sn=e5069d1c3e77ebd781da522ad787fb48&chksm=f05268fbc725e1edc0987f8c94c5e497fd043177f819d0fe00aae3e6bf60423156ada713f83c&mpshare=1&scene=1&srcid=0411XEbDZhF7chwQG50zMtJA&key=52f65e2fc335f0816695259594ca021e3d2476a2cafaa96f3994e7588555cfa65895fc5e48257cb85115b1e2a25142ef955e698982337df732dbd52505ff6ffd2769e5aa3847377e4fb6a6594941e866&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=BRibOyqRAz6gRljQC9sbQ9pSXaaPwwqIN7vjp9uDpWetLencjvDMAKSRN%2FIVeI4k)
 
-> 职位要求：
-> 
-> 计算机相关专业本科以上学历，三年以上Java Web应用软件开发经验；
-> 精通Servlet、Spring、开发，对Linux下的开发环境有较深厚的开发经验；
-> 熟练MySQL，对数据库有较强的设计能力，同时熟悉大数据相关技术；
-> 熟悉JavaScript、html、css等web前端技术；熟悉网络编程，具有设计对外API经验和能力；
-> 读过开源代码并有体会者优先考虑；
-> 
-> -
-> 乍一瞧，这家恨不能招个二手的图灵奖获得者啊！其实呢？他们就是想招个人，从github上把开源项目A抄下来，然后攥弄攥弄接到自己的数据库上，每天生成个报表页面给领导看。这个，才叫真实需求。知道了这个，你要做的，不是照上面那串词儿买一系列的《二十一天精通某某某》临时抱佛脚，而是去github上把A项目弄清楚，同时别忘了在自我介绍的时候说一句“我对A项目挺熟的”。
+> ![](http://ojcp18ifz.bkt.clouddn.com/2018-04-17-Snip20180417_705.png)
 
 学习技能不是一两天的事情，需要抓住重点，在段时间内掌握一个领域的关键核心，而不是全部。
 
@@ -56,9 +47,9 @@ categories: jekyll update
 
 ---
 
-## 我的转行+自学经历
+## 附：我的转行+自学经历
 
-### 案例1：NLP -「校对」
+###（1）：NLP -「校对」
 
 去年我从刚转到阳老师的 AI-NLP 团队，其实就很难熬过这种学习期，如果是我以前的学习方法来学习（先读书后行动），我不可能在半年内搞定产品上线，好在我的老板-阳老师本身就是技术大牛，对学习方法又有很强的理论背景，所以带我们从新手入门会绕过外面那些人的学习方法。
 
@@ -79,7 +70,7 @@ categories: jekyll update
 
 但是光分析别家产品的东西，不去思考，永远都是自己的主观臆断。自己做出来的，或者自己从解决一个问题出发，而找到的东西，才能有更强的理解。
 
-### 案例2：NLP + 语言学 -「公司取名」
+### （2）：NLP + 语言学 -「公司取名」
 
 > 之前打算要开一个新公司，但是起公司名就非常苦恼，光靠脑子想半个月都想不出来。后来用 AI 批量生成好名字的方法，只用了几天时间。其中我需要快速学习底层理论：认知语言学的基本层次范畴原理，人脑的记忆生存优势，名字寓意背后有哪些好的文化模因.....
 > 
