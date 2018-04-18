@@ -1,22 +1,23 @@
-# BleuHu.github.io
-[My blog : www.huyuning.com](http://www.huyuning.com/)
+# RamyWu.github.io
 
--  a  girl born in 1993
--  blue sky
--  music
-   - Deserts Zhang  
--  book
-   - literature
-   - cognitive psychology
-- sports
-   - lift
-   - runnning
-   - bicycling
+[My blog : www.ramywu.com](http://www.ramywu.com/)
 
-
-
-
- 
-
-
-
+-  基本信息
+	-  大虾
+	-  广东惠州人
+	-  生于1993
+	-  定居北京 海淀区 五道口
+-  职业
+	-  AI 产品经理（3年）
+	-  iOS 开发工程师（大四实习）
+-  公司
+	-  现-安人心智（2017.5-今）
+	-  前-商汤科技（2015.1-2017.4）
+-  学历
+	-  本科 计算机专业
+- 爱好
+	- 健身
+	- 旅行
+	- 阅读
+	- 自拍
+	- 面膜
