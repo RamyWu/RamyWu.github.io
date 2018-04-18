@@ -2,7 +2,7 @@
 layout: post
 title:  "如何转入 AI 产品经理的几个问题"
 date:   2018-04-17 22:42:00 +0800
-tags: AI PM
+tags: AI-PM
 category: Work
 ---
 

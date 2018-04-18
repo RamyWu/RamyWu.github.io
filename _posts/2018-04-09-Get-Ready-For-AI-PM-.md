@@ -2,7 +2,7 @@
 layout: post
 title:  "转入 AI 产品经理之前最好提前做哪些准备？"
 date:   2018-04-09 18:52:00 +0800
-tags: AI PM
+tags: AI-PM
 category: Work
 ---
 

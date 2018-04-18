@@ -2,7 +2,7 @@
 layout: post
 title:  "AI PM 和常规 PM 的区别是什么？"
 date:   2018-04-09 12:42:00 +0800
-tags: AI PM
+tags: AI-PM
 category: Work
 ---
 

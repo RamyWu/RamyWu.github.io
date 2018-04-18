@@ -2,7 +2,7 @@
 layout: post
 title:  "AI 产品经理在工作中会面临什么样的难题？"
 date:   2018-04-09 19:42:00 +0800
-tags: AI PM
+tags: AI-PM
 category: Work
 ---
 

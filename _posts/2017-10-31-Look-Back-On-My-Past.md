@@ -2,7 +2,7 @@
 layout: post
 title:  "回头看看当年的自己"
 date:   2017-10-31 15:42:00 +0800
-tags: AI PM
+tags: AI-PM
 category: FreeStyle
 ---
 

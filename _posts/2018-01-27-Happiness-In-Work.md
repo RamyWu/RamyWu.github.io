@@ -2,7 +2,7 @@
 layout: post
 title:  "一位 AI PM 在工作中的痛苦和幸福"
 date:   2018-01-27 01:42:00 +0800
-tags: AI PM
+tags: AI-PM
 category: Work
 ---
 
