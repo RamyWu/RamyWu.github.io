@@ -58,7 +58,7 @@ Xiaomingbot 主要涉及的技术包括以下方面:
 ## 腾讯 Dreamwriter
 
 - [如何看待腾讯推出的新闻写作机器人Dreamwriter？ - 知乎](https://www.zhihu.com/question/35513969)
-- [机器人会写稿之后，腾讯还想让它实时整理出一份新闻简报 | 雷锋网](https://www.leiphone.com/news/201704/aNNpEpuCgAiQpBPB.html)
+- [机器人会写稿之后，腾讯还想让它实时整理出一份新闻简报](https://www.leiphone.com/news/201704/aNNpEpuCgAiQpBPB.html)
 - [GitHub - rtfeldman/dreamwriter](https://github.com/rtfeldman/dreamwriter)
 
 > 刘康认为，“机器写作从 0 到 1 大家都可以有，但从 1 到 2、到 3 要花费相当大的精力。”他表示“今天的数据量非常细，我们可以描述到每一个数据的颗粒还原。”
@@ -147,9 +147,9 @@ Xiaomingbot 主要涉及的技术包括以下方面:
 
 - [AI写的科幻小说，人们会喜欢看么？_36氪](https://36kr.com/p/5109741.html)
 - [Botnik Studios](http://botnik.org/content/harry-potter.html)
-- [What Happens When an Algorithm Helps Write Science Fiction | WIRED](https://www.wired.com/2017/12/when-an-algorithm-helps-write-science-fiction/)
+- [What Happens When an Algorithm Helps Write Science Fiction](https://www.wired.com/2017/12/when-an-algorithm-helps-write-science-fiction/)
 - [Julian's Homepage](http://www.cs.toronto.edu/~jbrooke/)
-- [Adam Hammond | Assistant Professor, Department of English, University of Toronto](http://www.adamhammond.com/)
+- [Adam Hammond - Assistant Professor, Department of English, University of Toronto](http://www.adamhammond.com/)
 
 ![](http://ojcp18ifz.bkt.clouddn.com/2018-04-19-173302.jpg)
 
@@ -157,9 +157,9 @@ Xiaomingbot 主要涉及的技术包括以下方面:
 
 ## AI 恐怖故事
 
-- [Shelly：一个生产恐怖故事的 AI 机器人 | 爱范儿](http://www.ifanr.com/934408)
+- [Shelly：一个生产恐怖故事的 AI 机器人](http://www.ifanr.com/934408)
 - [Shelley](http://shelley.ai/)
-- [AI 人工智能 Shelley 的恐怖故事創作 - 3D Printing 中文雜誌/ STEM 教育/ Coding 電腦科學/ AI 人工智能](http://www.ideamakerhk.com/ai/ai-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-shelley-%E7%9A%84%E6%81%90%E6%80%96%E6%95%85%E4%BA%8B%E5%89%B5%E4%BD%9C/)
+- [AI 人工智能 Shelley 的恐怖故事創作](http://www.ideamakerhk.com/ai/ai-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-shelley-%E7%9A%84%E6%81%90%E6%80%96%E6%95%85%E4%BA%8B%E5%89%B5%E4%BD%9C/)
 
 >  Shelly 能够写出让人恐怖的故事。不过，它真正吸引人之处在于，这些故事不仅仅是算法的产物。在这个过程中，AI 强化和补充了人类的能力，而非替代人类的能力。Shelly 把人类思维融入到 AI 设计之中。
 > 
@@ -174,7 +174,7 @@ Xiaomingbot 主要涉及的技术包括以下方面:
 
 - [足球赛事战报的自动写作研究 - 中国知网](http://kns.cnki.net/KCMS/detail/11.2442.N.20171105.1715.003.html)
 - [NBA赛事新闻的自动写作研究 - 中国知网](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=BJDZ201702003&uid=WEEvREcwSlJHSldTTEYzVDhsOWpuU1lNU3Y4akU4VWtFTTg2SjZRT3pEYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTIyODdmWStSdkZpam5WYnJJSnlmUGRMRzRIOWJNclk5Rlo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTEs=)
-- [PaperWeekly 第36期 | Seq2Seq有哪些不为人知的有趣应用？](https://mp.weixin.qq.com/s/B05RlAUfRWm_ECQRm_r40A)
+- [PaperWeekly 第36期 --- Seq2Seq有哪些不为人知的有趣应用？](https://mp.weixin.qq.com/s/B05RlAUfRWm_ECQRm_r40A)
 - [从文本生成看Seq2Seq模型](https://zhuanlan.zhihu.com/p/29967933)
 - [李智恒 "GAN"法--对抗生成网络在文本领域的应用](http://ir.dlut.edu.cn/news/detail/442)
 
