@@ -2,7 +2,7 @@
 layout: post
 title:  "AI 自动写作 · 论文阅读"
 date:   2018-03-03 20:12:00 +0800
-tags: [AI-PM,Paper-Reading]
+tags: [AI-PM,Reading]
 category: Work
 ---
 
@@ -140,7 +140,7 @@ PaperWeekly-解读：
 - [PaperWeekly第36期---Seq2Seq有哪些不为人知的有趣应用？](https://mp.weixin.qq.com/s/B05RlAUfRWm_ECQRm_r40A)
 - [从文本生成看Seq2Seq模型](https://zhuanlan.zhihu.com/p/29967933)
 - [李智恒"GAN"法--对抗生成网络在文本领域的应用](http://ir.dlut.edu.cn/news/detail/442)
-
+- [赛尔原创 | 文本生成概述](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650791514&idx=1&sn=dd0ccde599cb8a242daf680127e9f4a5&chksm=8f474bb1b830c2a7467a896ca04e9f3034c133de585b2330a63df1f2846c40bf7bd766c11abb&scene=27#wechat_redirect)
 
 ---
 
