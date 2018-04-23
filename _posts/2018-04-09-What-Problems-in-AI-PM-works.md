@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI 产品经理在工作中会面临什么样的难题？"
+title:  "AI PM 在工作中会面临什么样的难题？"
 date:   2018-04-09 19:42:00 +0800
 tags: AI-PM
 category: Work
@@ -94,4 +94,4 @@ NLP 是一个交叉学科，难度很大，有些问题从语言学角度都没�
 
 ---
 
-created，180409
+- created，180409

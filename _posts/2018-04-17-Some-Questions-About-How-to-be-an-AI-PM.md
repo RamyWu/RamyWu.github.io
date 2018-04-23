@@ -18,10 +18,11 @@ category: Work
 [Q3：转入 AI PM 之前最好提前做哪些准备？](http://www.ramywu.com/work/2018/04/09/Get-Ready-For-AI-PM/)
 
 
-[Q4：如何学习 AI 产品经理的内隐知识?](http://www.ramywu.com/work/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge/)
+[Q4：AI PM 有哪些需要掌握的内隐知识？](http://www.ramywu.com/work/2018/04/09/How-to-Learn-AI-PM-Tacit-Knowledge/)
 
 ---
 
+- add case，180423
 - fix typo，180417
 - separate，180409
 - created，180406
