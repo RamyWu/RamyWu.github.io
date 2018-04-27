@@ -180,6 +180,7 @@ Xiaomingbot 主要涉及的技术包括以下方面:
 
 ## AI 科幻小说
 
+- [在算法的“指导”下，我写了一篇科幻小说_36氪](http://36kr.com/p/5107254.html)
 - [AI写的科幻小说，人们会喜欢看么？_36氪](https://36kr.com/p/5109741.html)
 - [Botnik Studios](http://botnik.org/content/harry-potter.html)
 - [What Happens When an Algorithm Helps Write Science Fiction](https://www.wired.com/2017/12/when-an-algorithm-helps-write-science-fiction/)
@@ -187,6 +188,14 @@ Xiaomingbot 主要涉及的技术包括以下方面:
 - [Adam Hammond - Assistant Professor, Department of English, University of Toronto](http://www.adamhammond.com/)
 
 ![](http://ojcp18ifz.bkt.clouddn.com/2018-04-19-173302.jpg)
+
+> 他们的程序可以从大量文本中识别的几十种结构和内容风格上的细节，如果你想要写一个故事，你可以先给它一系列已经写好的、伟大的故事，程序就能够识别出那些伟大故事中的共同之处。
+> 
+> 哈蒙德和布鲁克创建了一个基于Web的界面，通过这个界面，他们名为SciFiQ的算法可以从文本的“原子层面”上告诉我，我写的每一个细节与我最喜欢的50个作品中的细节相匹配的程度如何。（我所说的“原子层面”，指的是“每100个词中应该有多少名词”。）当我输入一个单词或短语时，只要和SciFiQ的想法有点不同，界面会亮起红色或紫色。当我修正这个词或短语时，界面会变绿。 
+> 
+> 大多数作家和读者所说的风格（一种可识别的语言方式）和算法所考虑的风格不一样。它的风格就是平均每个句子和段落长度的差异、每100个单词中的动词数量，以及我的故事必须遵循的许多其他的统计数据和模式。
+
+
 
 ---
 
