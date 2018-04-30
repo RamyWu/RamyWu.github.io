@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "转入 AI PM 之前最好提前做哪些准备？"
+title:  "转入 AI PM 前的准备 + 转入后的适应"
 date:   2018-04-09 18:52:00 +0800
 tags: AI-PM
 category: Work
@@ -110,4 +110,5 @@ category: Work
 
 ---
 
+- fix grammar
 - created，180409
