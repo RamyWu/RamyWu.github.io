@@ -6,7 +6,7 @@ tags: Thinking
 category: FreeStyle
 ---
 
-今天跟某个学霸聊到「AI PM的能力模型」，我总结了下自己的思考，非正式文章，很FreeStyle。
+今天跟某个学霸聊到「AI PM的能力模型」，我总结了下自己的思考，纯属瞎扯，个人偏好，非社会需求。全文风格很FreeStyle。
 
 1. 基础技能
 2. 专业技能
@@ -19,8 +19,29 @@ category: FreeStyle
 
 ### （1）书面表达技能
 
-包括形式、逻辑，语言组织，提炼关键信息等，常用在邮件沟通和会议记录等。推荐我前老板的一篇文：[专业主义，从备忘录开始 - 阳志平](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652150207&idx=1&sn=f7c5106304725bd13f3fbe24357781a6&chksm=84f0b2e9b3873bffe6ae15ba65f695c16989506bfa507b57fa60c702322aa52ce11933c953e7&scene=0&key=a0155c64695cc7b8f51e7a69a4d0b7858854c89df610c5dc13eb447e90253da36926d4e6a757e0a786378c08b9303fd719e66510576a164dc4588f417cf90dc453098fa32bb4523b2e877ff05c0aa0b8&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=yedqiPU0Z5LCSlZFeYgupbf%2FAHZtLnO4HMGZjIvtFAB5JJsnzfCdmdhTZiWXaXym)
+常用于会议记录、邮件沟通，文档撰写。
 
+而邮件沟通还涉及到团队协作，需要思考对话的形式、沟通的要点、信息的逻辑关系，语言的组织，关键信息提炼等。
+
+所以工作首先必备的就是书面写作技能。这里推荐我前老板的一篇文章：[专业主义，从备忘录开始 - 阳志平](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652150207&idx=1&sn=f7c5106304725bd13f3fbe24357781a6&chksm=84f0b2e9b3873bffe6ae15ba65f695c16989506bfa507b57fa60c702322aa52ce11933c953e7&scene=0&key=a0155c64695cc7b8f51e7a69a4d0b7858854c89df610c5dc13eb447e90253da36926d4e6a757e0a786378c08b9303fd719e66510576a164dc4588f417cf90dc453098fa32bb4523b2e877ff05c0aa0b8&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=yedqiPU0Z5LCSlZFeYgupbf%2FAHZtLnO4HMGZjIvtFAB5JJsnzfCdmdhTZiWXaXym)
+
+
+给大家看我的负面案例：我之前写过的文章的前后版本对比，红色是我第一个版本写的，绿色是舍友帮我调整后，我反复改改改过的。
+
+> ![](http://ojcp18ifz.bkt.clouddn.com/2018-05-12-005749.jpg)
+> 
+> ![](http://ojcp18ifz.bkt.clouddn.com/2018-05-12-005746.jpg)
+
+
+
+发现红色文字的问题了吗？--> 各种逻辑关系不对、语序不对、缺少介词和连词、还有常见的中文语法错误。（其实这就是写匠真的要解决的语法错误啊[哭笑不得]）
+
+问题背后的根源：
+
+- 也许也是长期使用微信沟通导致的。因为微信发送文字，基本都是单字、表情和短句，中间有时不会带连接词，介词等。
+- 没有经过的长文章训练，长期口语化表达缺乏了前后的内容逻辑和组织，和他人沟通就会出现说不清重点，沟通文字信息冗余等问题。
+
+发现自己的问题就好，现在改还是来得及。
 
 ### 英文
 
