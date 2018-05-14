@@ -6,11 +6,11 @@ tags: AI-PM
 category: Translation
 ---
 
-写匠竞品的 Grammarly 的发展历程。
+竞品研究 - [Grammarly](https://www.grammarly.com/) 的发展历程。
 
 > Grammarly 创办于 2008 年初，直到今年才第一次融资，一下就融了 $1.1 亿。现在每天活跃用户 690 万。本文通过每年 Grammarly 网站首页的截图以及文案的变化，分析其成长之路。
 
-- 资讯 from [Grammarly 是如何做起来的 | 湾区日报](https://wanqu.co/a/5577/2017-08-29-how-grammarly-quietly-grew-its-way-to-6-9-million-daily-users-in-9-years.html)
+- 资讯 from [Grammarly 是如何做起来的 - 湾区日报](https://wanqu.co/a/5577/2017-08-29-how-grammarly-quietly-grew-its-way-to-6-9-million-daily-users-in-9-years.html)
 - 练习英文 + 写作
 - 了解行业、竞品相关资讯
 
