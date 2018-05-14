@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "控制焦虑，提升自我"
+title:  "控制自我"
 date:   2018-05-12 07:44:00 +0800
 tags: Thinking
 category: FreeStyle
