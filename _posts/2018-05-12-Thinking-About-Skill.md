@@ -20,9 +20,9 @@ category: FreeStyle
 
 因为文章篇幅较大，拆成3篇：
 
-1. AI PM 的能力思考与技能训练 - 基础技能
-2. AI PM 的能力思考与技能训练 - 专业技能
-3. AI PM 的能力思考与技能训练 - 进阶技能
+1. [AI PM 的能力思考与技能训练 - 基础技能](http://www.ramywu.com/freestyle/2018/05/11/Thinking-About-Skill-Base/)
+2. [AI PM 的能力思考与技能训练 - 专业技能](http://www.ramywu.com/freestyle/2018/05/11/Thinking-About-Skill-Pro/)
+3. [AI PM 的能力思考与技能训练 - 进阶技能](http://www.ramywu.com/freestyle/2018/05/11/Thinking-About-Skill-Advance/)
 
 **总结：**
 
