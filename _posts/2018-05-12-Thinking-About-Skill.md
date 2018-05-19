@@ -254,7 +254,7 @@ category: FreeStyle
 ---
 
 
-## 总结：
+# 总结：
 
 在经历了多个 AI 产品的从 0 到 n，读了那么多神作，将自己的思考不断输出，嗯，就会发现，自己在前进的道路上，已经走了很远，并且我会在 AI PM 这条路坚持一路走下去。[回头看看当年的自己](http://www.ramywu.com/freestyle/2017/10/31/Look-Back-On-My-Past/)，[一位 AI PM 在工作中的痛苦和幸福](http://www.ramywu.com/work/2018/01/26/Happiness-In-Work/)。
 
