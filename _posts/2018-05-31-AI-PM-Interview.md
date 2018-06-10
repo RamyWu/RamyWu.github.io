@@ -366,7 +366,7 @@ category: Work
 - [精益产品-市场匹配模型（The Product-Market Fit）](https://www.jianshu.com/p/10d3f4ffb270)
 	- 原文：[A Playbook for Achieving Product-Market Fit - Lean Startup Co.](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
 - [世上的创业公司只有两种，一种是找到PMF的，一种是没找到的 - Marc Andreesen](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651047681&idx=1&sn=c1049ebc61e33e291940496f12797d18&mpshare=1&scene=1&srcid=0604RQSagkizuBuaxY3aQOUs&key=b0619942483d4ca31859bdf8906a2169d08b9cc444d37306bec2257bc97caa0907e95f420582384406306712d4ca62a7f3b2719fc2dcc719a908e0487784a6f3dfc8dca2f348a395b9d8037901f62315&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=cr%2B5SNhwvjXsuAugmoJL6NRQuPCNAUm3VRjF5Mfimx7QZ5K4sXD4k%2Fmp5bpvzBlc)
-- [PMF：为何硅谷大神把它念奉为创业公司“唯一重要的东西”？ | 人人都是产品经理](http://www.woshipm.com/pd/327126.html)
+- [PMF：为何硅谷大神把它念奉为创业公司“唯一重要的东西”？](http://www.woshipm.com/pd/327126.html)
 
 
 ---
