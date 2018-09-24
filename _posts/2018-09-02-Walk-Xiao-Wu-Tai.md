@@ -2,7 +2,7 @@
 layout: post
 title:  "人生第一次徒步·小五台"
 date:   2018-09-02 12:42:00 +0800
-tags: T小时inking
+tags: Thinking
 category: FreeStyle
 ---
 
@@ -88,7 +88,7 @@ category: FreeStyle
 ## 做好真正的攻略
 
 
-后来，查了真正认真写徒步攻略的文章，如[绿野救援队-户外AA必须谨记的13条生存法则](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMTUxMQ==&mid=2652701385&idx=1&sn=8e920397d10b5c7950313a82a6457d4e&c小时ksm=8bd65b11bca1d2071165927b7668d02d010c6d1254e98e61fbe1c2d1c59c3902178c177a40fd&mps小时are=1&scene=1&srcid=0827tJCm5lPnd4jNRtmgBCD小时&key=1a64fe9f61cd785c1c87236204f1d9c35fcd727161156f900b6a9970f0ed58398465bc904f6bcfe606e0994aca664c2255e7fb4b7b7a23cef9aa3ea980a4a64d5d2843d7e544955f0475cb1404f9f261&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=z小时_CN&fontScale=100&pass_ticket=W0dCSyFLeS小时JsSJlGxDE小时%2FjNvEyA小时57eKvPFFD小时T4WCs5BIGu5小时oW4iwOyv59ti2)，不是小红书这种拍照文，能至少给自己多一点警醒。
+后来，查了真正认真写徒步攻略的文章，如[绿野救援队-户外AA必须谨记的13条生存法则](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMTUxMQ==&mid=2652701385&idx=1&sn=8e920397d10b5c7950313a82a6457d4e&chksm=8bd65b11bca1d2071165927b7668d02d010c6d1254e98e61fbe1c2d1c59c3902178c177a40fd&mpshare=1&scene=1&srcid=0827tJCm5lPnd4jNRtmgBCDh&key=1a64fe9f61cd785c1c87236204f1d9c35fcd727161156f900b6a9970f0ed58398465bc904f6bcfe606e0994aca664c2255e7fb4b7b7a23cef9aa3ea980a4a64d5d2843d7e544955f0475cb1404f9f261&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=W0dCSyFLeShJsSJlGxDEh%2FjNvEyAh57eKvPFFDhT4WCs5BIGu5hoW4iwOyv59ti2)，不是小红书这种拍照文，能至少给自己多一点警醒。
 
 早上还一起笑着自拍的队友，而在晚上却冷冰冰地说「我们每个人只有一件雨衣，你的弄坏了我们不会借给你。因为每个人都要活命。」原本心理还有一丝不爽，可是换位思考，这真的很正常，我能自保就不错了谁想照顾别人？
 
