@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一点点变化"
+title:  "试用期转正后的一点点变化"
 date:   2018-12-12 13:55:00 +0800
 tags: AI-PM
 category: Work
