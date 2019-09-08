@@ -6,7 +6,7 @@ tags: Thinking
 category: FreeStyle
 ---
 
-人工智能可以代替人类的智能吗？如何计算AI产生的效率和价值？
+人工智能可以代替人类的智能吗？如何计算AI产生的效率和价值？*一篇有意思的思考
 
 ---
 
@@ -81,8 +81,6 @@ category: FreeStyle
 ---
 
 现在的这篇文章，是我在地铁口述+asr 转的文本，从写完文本到编辑：你猜一共花了几个小时呢？
-
-
 
 ![](https://uploader.shimo.im/f/XlBuSEf4FBAGNeFL.png)
 
