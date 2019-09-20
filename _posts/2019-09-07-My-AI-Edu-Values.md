@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一些对教育的一些想法"
+title:  "对教育的一些想法"
 date:   2019-09-07 17:00:00 +0800
 tags: Thinking
 category: FreeStyle
