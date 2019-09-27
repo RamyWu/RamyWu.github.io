@@ -43,11 +43,9 @@ category: FreeStyle
 
 至于问了哪些问题，其实和其他的人问的一样，大部分还是问的通用问题，包括产品规划，阶段，目标，指标，核心工作，解决了哪些问题等。最后依然加了评估算法指标的拷问。
 
-我所有的回答，我的思考，回归到产品的核心本质----AI 课究竟解决了什么问题。
+我所有的回答，我的思考，回归到产品的核心本质----AI 课究竟解决了什么问题。如何思考产品的价值？历史文章--[思考价值](http://www.ramywu.com/freestyle/2019/08/20/Thinking-of-AI-Teacher/)
 
-
----- 公司在当前的问题，需要降低成本且扩大规模来拉平成本。今年面临秋招的各项商业指标，没有找到破局就是死路。必须靠新的形态来扭转亏损局面，获得新一轮的融资。
-而在现阶段的处境，在短期时间压力下，如何做到能交付达标的AI 产品，就不仅仅是思考AI技术的突破难题了，就要做一些绕过 AI 技术的产品方案。AI 产品或者 AI 公司所遇到的问题，和传统互联网公司的模式不一样的问题，在这篇[人工智能公司的场景跃迁理论](https://mp.weixin.qq.com/s?__biz=MzI1NDE1MDUwOQ==&mid=2650797263&idx=1&sn=c806b6678be01301cce7ba32848ceff6&chksm=f1c2c6cdc6b54fdba33782c89be295ec33b3434c4767f9ec3b97ed03b889354b2c7bd1cec01a&mpshare=1&scene=1&srcid=&sharer_sharetime=1569599848487&sharer_shareid=092713d04f046c2b90a348759521ecd8&key=e457042fa01daf6a519b7cb078d6d2b3c91baa615ae6953429efced7c79bcc58b348ba5df6ee5cac746ac7380a4eb0385d9417ac2dc06a9d983be001bb191e1427d0bb759c1b980f3ad46e40cb3a50d2&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=MK4AyMMmOrI7hHhnmQu1YoRUQPRyhBJ0SGaLt%2BvkrKA9YB8Xe2I5K2ejVMZDhyi2)又指出：
+AI 产品或者 AI 公司所遇到的问题，和传统互联网公司的模式不一样的问题，在这篇[人工智能公司的场景跃迁理论](https://mp.weixin.qq.com/s?__biz=MzI1NDE1MDUwOQ==&mid=2650797263&idx=1&sn=c806b6678be01301cce7ba32848ceff6&chksm=f1c2c6cdc6b54fdba33782c89be295ec33b3434c4767f9ec3b97ed03b889354b2c7bd1cec01a&mpshare=1&scene=1&srcid=&sharer_sharetime=1569599848487&sharer_shareid=092713d04f046c2b90a348759521ecd8&key=e457042fa01daf6a519b7cb078d6d2b3c91baa615ae6953429efced7c79bcc58b348ba5df6ee5cac746ac7380a4eb0385d9417ac2dc06a9d983be001bb191e1427d0bb759c1b980f3ad46e40cb3a50d2&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=MK4AyMMmOrI7hHhnmQu1YoRUQPRyhBJ0SGaLt%2BvkrKA9YB8Xe2I5K2ejVMZDhyi2)又指出：
 
 > 传统的互联网创业核心是抓紧用户需求，只要不断尝试，找到了市场-产品结合点，技术不会是太大的障碍。人工智能创业则不仅要找这个点，而且找到了你也不一定做的出来。甚至明知道那个点在在哪，也不能去直接做，必须先把到那个点的路径一点点分解出来，再寻找路径上每一个点的场景-单元结合点。每个点都是下一次跃迁的基础。互联网应用是规模复杂系统complex system，关键的是可扩展性scalability，只要做出一个小原型，跑得通，之后后面的工程架构可能经历多次的scale out，但是场景可以保持不变。但AI应用不同，是细致复杂系统complicated system，关键是可演进性evolvability，从原型到最终的市场认可产品，不仅工厂架构会变，从产品形态到场景都会变。
 
