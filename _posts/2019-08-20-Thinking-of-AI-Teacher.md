@@ -15,7 +15,7 @@ AI 产品在思考产品定位和做产品规划的时候，其实都是在思�
 每家公司每个问题的根源矛盾点，无非都是商业模式没跑通，没有验证PMF，但是，为什么没跑通？就是没有找到价值的真相。顺着这个思路，价值的真相是什么？价值就是产品交付的核心指标。
 
 
-比如教育公司要提供的核心价值就是更好的教学效果，才能带来资源的公平。而有家长为课程的教学效果买单，给企业带来收入。只有口碑好，效果好，才会体现在经营指标上，包括续费、转介绍的提高，最后才可以拉回获课成本。
+比如教育公司要提供的核心价值就是更好的教学效果，基于教学质量下所带来的资源公平。而家长为课程的教学效果买单，减少用户的机会成本--[瓜总：在线浪潮中教育企业的坚持与坚决](https://mp.weixin.qq.com/s?__biz=MzI5NzUwODY3Mw==&mid=2247487078&idx=1&sn=2f3ee7363320a65e710921284ce94714&chksm=ecb54448dbc2cd5ef47e39be1430996db80168a5437a2d06b9b1d391bfb9d50609c832342be5&mpshare=1&scene=1&srcid=&sharer_sharetime=1569633098988&sharer_shareid=2590f41b2a2211f36261553f9b9b72db&key=e457042fa01daf6ae6b302a647e491ce6ac4e213f792488234e7e68d20d59c600d3043cc432d365d7a11abb5231a5fd02adb41949d66cc8e2616e97d9c9604015a3ed9b67ad6014a5c2f438778b0f309&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=uGao5Vg6gzXXQWTFncTL9iyrNfKgZBQSxdbmPVNWuvVW39qsyclzgqmYOQeUvVrp)，产品的商业价值，只有口碑好，效果好，才会体现在经营指标上，包括续费、转介绍的提高，最后才可以拉回获课成本。
 
 
 要分析价值，还得基于这个行业的细分市场之下，对公司的价值和定位的了解，才知道公司哪个核心环节出现了问题。
