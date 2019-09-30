@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "对教育的一些想法"
-date:   2019-09-07 17:00:00 +0800
+date:   2019-07-07 17:00:00 +0800
 tags: Thinking
 category: FreeStyle
 ---
 
-这是一篇想到哪说到哪的记录，不断更新和朋友的对话。
+这是一篇想到哪说到哪的记录，和几个朋友的对话记录。
 
 ---
 
 ## 我为什么做教育
 
-一个朋友，从乙方合作伙伴，变成了线下时常见面的好友。感动大老远来请我吃海底捞。当然，吃饭还是会聊很多有趣的新闻，也聊到关于教育的事情。
+一个朋友，从乙方合作伙伴，变成了线下时常见面的好友。感动大老远来请我吃饭，聊到关于教育的事情。
 
 1、他问，你觉得教育产品经理哪方面的素质是最重要的？
 
@@ -206,12 +206,7 @@ AI技术自身不成熟（所以需要产品的反哺），AI技术对很多产�
 
 ---
 
-手稿：
-
-图片: https://images.smcdn.cn/iZvrYMUaggA3CuyZ/0F6ADB82_D210_40B1_BAB8_A28A2C86F664.jpg图片: https://images.smcdn.cn/Yu9BGV2qtVEs75Nd/215C9A20_4728_4A0C_95F0_CEB0C20A4B27.jpg
-图片: https://images.smcdn.cn/7gN4rD0MLfEXPVb6/C657D94F_F394_4D8E_8E58_FDE4F4455610.jpg
-
-参考资料：
+## 参考资料：
 
 * [美团张川：做了8年平台，我总结了平台的5道坎](https://mp.weixin.qq.com/s/3M58Ise7K9ou7tdX84sZCw)
 * [智能教学系统的评价与选择](https://mp.weixin.qq.com/s?__biz=MzA4ODc1NDU2MQ==&mid=2650808020&idx=1&sn=7fe590e655958e868bf95ebb5eb9b97a&chksm=8bd1ee3abca6672c8fb2a599a75d1ba10c500040f02faf99e69b23b67744614697119a20ce22&mpshare=1&scene=1&srcid=&key=f0b3b85af89c30e9921ffe74cc66e248b2d4c5d17bd6160a8fcde92c809101b599b617deb0a64848f0622fd67dd587030795bcc614bcadbb036f3896bc134a2fc9a3081eff773bca809888780eea252f&ascene=0&uin=OTYyNDg4NjIx&devicetype=iMac+MacBookPro14%2C1+OSX+OSX+10.12.5+build(16F2073)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=uwzbW8YtZZ9IqAVvp%2BaIENn5UFu40GsJzPEA%2FjsUXxdxqlLhSiiuYsJtpaIUIBsB)
@@ -220,6 +215,5 @@ AI技术自身不成熟（所以需要产品的反哺），AI技术对很多产�
 
 ---
 
-还是和昨天一样，口述语音+asr转成的文字稿，等晚点睡醒了再找时间整理~~ 感谢你的时间~
-
-- create at 190907
+- 不断 update 
+- create at 190707

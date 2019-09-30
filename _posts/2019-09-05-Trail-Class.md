@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "磨课的思考"
-date:   2019-09-25 23:00:00 +0800
+date:   2019-09-05 23:00:00 +0800
 tags: Thinking
 category: FreeStyle
 ---
@@ -157,5 +157,5 @@ AI PM的能力，其实几乎和 PM 所需能力一致，只是用到AI知识、
 
 ---
 
-- create at 190925
+- create at 190905
 
