@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "读《启示录2》的感想"
-date:   2019-07-27 17:00:00 +0800
+date:   2019-09-21 17:00:00 +0800
 tags: Thinking
 category: FreeStyle
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "人工智能代替人类智能的效率计算"
-date:   2019-09-05 21:50:00 +0800
+date:   2019-09-01 21:50:00 +0800
 tags: Thinking
 category: FreeStyle
 ---
