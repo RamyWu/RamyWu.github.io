@@ -20,6 +20,10 @@ category: FreeStyle
 
 本文先梳理清楚1、2、4，然后下一篇文章会再结合前面写过的人机系统模块和认知的框架，来帮助我们更好地理解3、AI 和教育结合能解决什么问题
 
+~~ 因为图床坏了（懒得管），公众号的图片可以点击：[AI 产品经理 03：AI+教育的结合](https://mp.weixin.qq.com/s/7iv0hK29tQFHXH5qh99KKg)
+但是公众号不如这里方便实时更新，辛苦大家阅读了~
+
+
 ---
 
 
@@ -40,7 +44,6 @@ category: FreeStyle
 
 ![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/icKHuEZYr1dMkyjPxW9lLHZk844Tyrsy7OLbEV8BZrLSia5oBHzGOKgK3iaxylnDFV2RwjaibwB8fm3kKeibtmszjmA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 图1来源于：人工智能的现状与未来
-
 
 
 
@@ -298,6 +301,7 @@ K12在线教育行业产业链：
 
 
 ---
+
 
 希望疫情快结束，大家要加油哦~
 
