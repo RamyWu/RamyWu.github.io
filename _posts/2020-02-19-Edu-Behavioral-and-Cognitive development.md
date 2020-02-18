@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "各年龄儿童行为能力发展及教养简表"
-date:   2020-02-19 06:00:00 +0800
+date:   2020-02-19 00:10:00 +0800
 tags: Thinking
 category: FreeStyle
 ---
@@ -37,6 +37,7 @@ category: FreeStyle
 
 ![](https://img.ramywu.com/imgs/2020/02/578e68e7adc15de5.jpg)
 
+后续补一些可以提炼分析的地方。
 
 ---
 
